@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Zoooora/Zoooora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+我叫区肇洲，来自广东省肇庆市，喜欢结识不同的朋友，个人热爱编程，喜欢看英剧美剧，平时也喜欢玩steam上的一些游戏和LOL；但是我也不会太宅，有空闲时间也会和朋友外出瞎逛
